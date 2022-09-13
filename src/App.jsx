@@ -10,7 +10,6 @@ export default function App() {
     <div>
       <Header />
       <Employees />
-      <Content />
       <Footer />
     </div>
   )
